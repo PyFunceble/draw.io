@@ -1,2 +1,3 @@
 # draw.io
-The draws of PyFunceble.
+
+This repository distributes our draws.
